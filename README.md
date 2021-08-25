@@ -4,16 +4,16 @@
 Estudiante de Ing. en Tecnologia ded la Informacion y Comunicacion 
 
 Mi horario escolar
-|       | LUNES                                                  | MARTES                                                 | MIERCOLES                                              | JUEVES                                                 | VIERNES                                                |
+|       |                                                        |                                                        |                                                        |                                                        |                                                        |
 |-------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+|       | LUNES                                                  | MARTES                                                 | MIERCOLES                                              | JUEVES                                                 | VIERNES                                                |
 | 14:00 | ADMINISTRACION  Y SEGURIDAD DE REDES                   | ADMINISTRACION  Y SEGURIDAD DE REDES                   | ADMINISTRACION  Y SEGURIDAD DE REDES                   | ADMINISTRACION  Y SEGURIDAD DE REDES                   | ADMINISTRACION  Y SEGURIDAD DE REDES                   |
-| 15:00 | INGENIERIA  DEL CONOCIMIENTO                           | INGENIERIA  DEL CONOCIMIENTO                           | INGENIERIA  DEL CONOCIMIENTO                           | INGENIERIA  DEL CONOCIMIENTO                           | INGENIERIA  DEL CONOCIMIENTO                           |
+| 15:00 | INGENIERIA  DEL CONOCIMIENTO                           | INGENIERIA  DEL CONOCIMIENTO                           | INGENIERIA  DEL CONOCIMIENTO                           | INGENIERIA  DEL CONOCIMIENTO                           |                                                        |
 | 16:00 | DESARROLLO DE  APLICACIONES PARA  DISPOSITIVOS MOVILES | DESARROLLO DE  APLICACIONES PARA  DISPOSITIVOS MOVILES | DESARROLLO DE  APLICACIONES PARA  DISPOSITIVOS MOVILES | DESARROLLO DE  APLICACIONES PARA  DISPOSITIVOS MOVILES | DESARROLLO DE  APLICACIONES PARA  DISPOSITIVOS MOVILES |
 | 17:00 | REDES EMERGENTES                                       | REDES EMERGENTES                                       | REDES EMERGENTES                                       | REDES EMERGENTES                                       | REDES EMERGENTES                                       |
-| 18:00 | TALLER DE  INVESTIGACION II                            | TALLER DE  INVESTIGACION II                            | TALLER DE  INVESTIGACION II                            | TALLER DE  INVESTIGACION II                            | TALLER DE  INVESTIGACION II                            |
+| 18:00 | TALLER DE  INVESTIGACION II                            | TALLER DE  INVESTIGACION II                            | TALLER DE  INVESTIGACION II                            | TALLER DE  INVESTIGACION II                            |                                                        |
 | 19:00 | INTERACCION  HUMANO COMPUTADORA                        |                 NEGOCIOS ELECTRONICOS I                | INTERACCION  HUMANO COMPUTADORA                        |                 NEGOCIOS ELECTRONICOS I                |                                                        |
 | 20:00 | INTERACCION  HUMANO COMPUTADORA                        |                 NEGOCIOS ELECTRONICOS I                | INTERACCION  HUMANO COMPUTADORA                        |                 NEGOCIOS ELECTRONICOS I                |                                                        |
-
 
 <!--
 **charlyesme7/charlyesme7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
