@@ -4,8 +4,8 @@
 Estudiante de Ing. en Tecnologia ded la Informacion y Comunicacion 
 
 Mi horario escolar
-------------------------------|--------------------------------------------------------|--------------------------------------------------------|
 |       | LUNES                                                  | MARTES                                                 | MIERCOLES                                              | JUEVES                                                 | VIERNES                                                |
+|-------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
 | 14:00 | ADMINISTRACION  Y SEGURIDAD DE REDES                   | ADMINISTRACION  Y SEGURIDAD DE REDES                   | ADMINISTRACION  Y SEGURIDAD DE REDES                   | ADMINISTRACION  Y SEGURIDAD DE REDES                   | ADMINISTRACION  Y SEGURIDAD DE REDES                   |
 | 15:00 | INGENIERIA  DEL CONOCIMIENTO                           | INGENIERIA  DEL CONOCIMIENTO                           | INGENIERIA  DEL CONOCIMIENTO                           | INGENIERIA  DEL CONOCIMIENTO                           |                                                        |
 | 16:00 | DESARROLLO DE  APLICACIONES PARA  DISPOSITIVOS MOVILES | DESARROLLO DE  APLICACIONES PARA  DISPOSITIVOS MOVILES | DESARROLLO DE  APLICACIONES PARA  DISPOSITIVOS MOVILES | DESARROLLO DE  APLICACIONES PARA  DISPOSITIVOS MOVILES | DESARROLLO DE  APLICACIONES PARA  DISPOSITIVOS MOVILES |
